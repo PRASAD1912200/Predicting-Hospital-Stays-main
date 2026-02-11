@@ -9,7 +9,7 @@ Total records: 318,438
 
 Unique patients: 318,437
 
-Target variable: Stay (11 classes representing length of stay ranges)
+Target variable: Stay (11 classes representing length of stay ranges).
 
 Key Features
 
